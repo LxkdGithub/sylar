@@ -1,0 +1,1 @@
+/usr/bin/c++  -rdynamic -O3 -g -std=c++17 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wall -std=gnu++0x -rdynamic CMakeFiles/fiber_test.dir/tests/test_fiber.cc.o -o ../bin/fiber_test  -Wl,-rpath,/home/lxk/Lab/Sylar/lib:/usr/local/lib ../lib/libspadger.so -lpthread -ldl /usr/local/lib/libyaml-cpp.so 
